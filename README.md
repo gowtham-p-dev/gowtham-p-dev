@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gowtham-p-dev
 - 👀 I’m interested in all kind of software development
-- 📫 How to reach me callmeasgowtham@gmail.com
-- 👀moonlightcoders.com👀
+- 📫 Reach me on - callmeasgowtham@gmail.com
+
 
 <!---
 gowtham-p-dev/gowtham-p-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
