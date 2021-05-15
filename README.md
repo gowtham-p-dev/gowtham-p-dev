@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gowtham-p-dev
-- 👀 I’m interested in all kind of software development
+- 👀 I’m interested in application development(web, mobile, desktop and backend)
 - 📫 Reach me on - callmeasgowtham@gmail.com
 
 
